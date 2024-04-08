@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url('./back.jpg');
+    background-image: url('https://github.com/JorgeSilencio/CSS_inicioSesion/blob/main/back.jpg');
     display: flex;
     justify-content: center;
     align-items: center;
